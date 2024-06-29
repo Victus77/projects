@@ -1,0 +1,5 @@
+Stock Prices: 100.5 101 102.5 101.5 103 104.5 105 104 103.5 102 
+Moving Averages (Period = 3): 101.333 101.667 102.333 103 104.167 104.5 104.167 103.167 
+Exponential Moving Averages (Period = 3): 100.5 100.75 101.625 101.562 102.281 103.391 104.195 104.098 103.799 102.899 
+Peaks at indices: 2 6 
+Head and Shoulders pattern detected: Yes
